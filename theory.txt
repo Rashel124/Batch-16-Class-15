@@ -1,0 +1,20 @@
+
+
+================Bootstrap============================================
+
+
+=======Bootstarp=========
+
+CSS = Casecading Style Sheet
+
+Bootstarp is the framework CSS
+
+
+You can install Bootstarp using two methods
+
+1. Using CDN Link (Content Delivery Network)
+2. Downloding the Source File
+
+ctrl u
+
+grid system....
